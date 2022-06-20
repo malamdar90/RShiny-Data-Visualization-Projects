@@ -1,0 +1,156 @@
+---
+title: "DV Data Cleaning"
+date: "7/10/2021"
+output: html_document
+---
+
+```{r}
+# load libraries
+library(tidyverse)
+library(dplyr)
+```
+
+```{r}
+# read data
+arts_v1 <- read.csv("Arts_v1.csv")
+view(arts_v1)
+```
+
+```{r}
+# final data
+arts_final <- arts_v1[,c(8:62,68:110,226,227,235,238,239,241:245,247,250,251,253:259)]
+arts_final <- na.omit(arts_final)
+
+# dimensions
+ncol(arts_final)
+nrow(arts_final)
+```
+
+```{r}
+# clean data
+arts_final[arts_final=="(1) Strongly agree"] <- 5
+arts_final[arts_final=="(2) Agree"] <- 4
+arts_final[arts_final=="(3) Neither agree or disagree"] <- 3
+arts_final[arts_final=="(4) Disagree"] <- 2
+arts_final[arts_final=="(5) Strongly disagree"] <- 1
+
+arts_final[arts_final=="(1) Much more creative"] <- 5
+arts_final[arts_final=="(2) A little more creative"] <- 4
+arts_final[arts_final=="(3) About as creative"] <- 3
+arts_final[arts_final=="(4) A little less creative"] <- 2
+arts_final[arts_final=="(5) Much less creative"] <- 1
+
+arts_final[arts_final=="(1) Yes"] <- "Yes"
+arts_final[arts_final=="(2) No"] <- "No"
+arts_final[arts_final=="(0) No"] <- "No"
+
+arts_final[arts_final=="(1) Male"] <- "Male"
+arts_final[arts_final=="(2) Female"] <- "Female"
+
+arts_final[arts_final=="(1) 18-24"] <- "18-24"
+arts_final[arts_final=="(2) 25-34"] <- "25-34"
+arts_final[arts_final=="(3) 35-44"] <- "35-44"
+arts_final[arts_final=="(4) 45-54"] <- "45-54"
+arts_final[arts_final=="(5) 55-64"] <- "55-64"
+arts_final[arts_final=="(6) 65-74"] <- "65-74"
+arts_final[arts_final=="(7) 75+"] <- "75+"
+
+arts_final[arts_final=="(1) Working - as a paid employee"] <- "Working"
+arts_final[arts_final=="(2) Working - self-employed"] <- "Working"
+arts_final[arts_final=="(3) Not working - on temporary layoff from a job"] <- "Not working"
+arts_final[arts_final=="(4) Not working - looking for work"] <- "Not working"
+arts_final[arts_final=="(5) Not working - retired"] <- "Not working"
+arts_final[arts_final=="(6) Not working - disabled"] <- "Not working"
+arts_final[arts_final=="(7) Not working - other"] <- "Not working"
+
+arts_final[arts_final=="(01) Less than $5,000"] <- "$49,999 or less"
+arts_final[arts_final=="(02) $5,000 to $9,999"] <- "$49,999 or less"
+arts_final[arts_final=="(03) $10,000 to $14,999"] <- "$49,999 or less"
+arts_final[arts_final=="(04) $15,000 to $19,999"] <- "$49,999 or less"
+arts_final[arts_final=="(05) $20,000 to $24,999"] <- "$49,999 or less"
+arts_final[arts_final=="(06) $25,000 to $29,999"] <- "$49,999 or less"
+arts_final[arts_final=="(07) $30,000 to $34,999"] <- "$49,999 or less"
+arts_final[arts_final=="(08) $35,000 to $39,999"] <- "$49,999 or less"
+arts_final[arts_final=="(09) $40,000 to $49,999"] <- "$49,999 or less"
+arts_final[arts_final=="(10) $50,000 to $59,999"] <- "$50,000 to $99,999"
+arts_final[arts_final=="(11) $60,000 to $74,999"] <- "$50,000 to $99,999"
+arts_final[arts_final=="(12) $75,000 to $84,999"] <- "$50,000 to $99,999"
+arts_final[arts_final=="(13) $85,000 to $99,999"] <- "$50,000 to $99,999"
+arts_final[arts_final=="(14) $100,000 to $124,999"] <- "$100,000 or more"
+arts_final[arts_final=="(15) $125,000 to $149,999"] <- "$100,000 or more"
+arts_final[arts_final=="(16) $150,000 to $174,999"] <- "$100,000 or more"
+arts_final[arts_final=="(17) $175,000 to $199,999"] <- "$100,000 or more"
+arts_final[arts_final=="(18) $200,000 or more"] <- "$100,000 or more"
+
+arts_final[arts_final=="(1) Northeast"] <- "Northeast"
+arts_final[arts_final=="(2) Midwest"] <- "Midwest"
+arts_final[arts_final=="(3) South"] <- "South"
+arts_final[arts_final=="(4) West"] <- "West"
+
+arts_final[arts_final=="(1) No HS diploma"] <- "No high school diploma"
+arts_final[arts_final=="(2) HS graduate or equivalent"] <- "High school graduate or equivalent"
+arts_final[arts_final=="(3) Some college"] <- "Some college"
+arts_final[arts_final=="(4) BA or above"] <- "College graduate or above"
+
+arts_final[arts_final=="(1) Married"] <- "Married"
+arts_final[arts_final=="(2) Widowed"] <- "Widowed"
+arts_final[arts_final=="(3) Divorced"] <- "Divorced"
+arts_final[arts_final=="(4) Separated"] <- "Separated"
+arts_final[arts_final=="(5) Never married"] <- "Never married"
+arts_final[arts_final=="(6) Living with partner"] <- "Living with partner"
+
+arts_final[arts_final=="(1) White, non-Hispanic"] <- "White, non-Hispanic"
+arts_final[arts_final=="(2) Black, non-Hispanic"] <- "Black, non-Hispanic"
+arts_final[arts_final=="(3) Other, non-Hispanic"] <- "Other, non-Hispanic"
+arts_final[arts_final=="(4) Hispanic"] <- "Hispanic"
+arts_final[arts_final=="(5) 2+, non-Hispanic"] <- "2+, non-Hispanic"
+arts_final[arts_final=="(6) Asian, non-Hispanic"] <- "Asian, non-Hispanic"
+
+arts_final[arts_final=="(0) Non-internet household"] <- "Non-internet household"
+arts_final[arts_final=="(1) Internet household"] <- "Internet household"
+
+arts_final[arts_final=="(1) Owned or being bought by you or someone in your household"] <- "Owned or being bought by you or someone in your household"
+arts_final[arts_final=="(2) Rented for cash"] <- "Rented for cash"
+arts_final[arts_final=="(3) Occupied without payment of cash rent"] <- "Occupied without payment of cash rent"
+
+arts_final[arts_final=="(1) Landline telephone only"] <- "Landline telephone only"
+arts_final[arts_final=="(2) Have a landline, but mostly use cellphone"] <- "Have a landline, but mostly use cellphone"
+arts_final[arts_final=="(3) Have cellphone, but mostly use landline"] <- "Have cellphone, but mostly use landline"
+arts_final[arts_final=="(4) Cellphone only"] <- "Cellphone only"
+arts_final[arts_final=="(5) No telephone service"] <- "No telephone service"
+
+arts_final[arts_final=="(01) Agriculture, forestry, fishing and hunting"] <- "Agriculture, forestry, fishing and hunting"
+arts_final[arts_final=="(02) Mining"] <- "Mining"
+arts_final[arts_final=="(03) Utilities"] <- "Utilities"
+arts_final[arts_final=="(04) Construction"] <- "Construction"
+arts_final[arts_final=="(05) Manufacturing"] <- "Manufacturing"
+arts_final[arts_final=="(06) Wholesale trade"] <- "Wholesale trade"
+arts_final[arts_final=="(07) Retail trade"] <- "Retail trade"
+arts_final[arts_final=="(08) Transportation and warehousing"] <- "Transportation and warehousing"
+arts_final[arts_final=="(09) Information"] <- "Information"
+arts_final[arts_final=="(10) Finance and insurance"] <- "Finance and insurance"
+arts_final[arts_final=="(11) Real estate rental and leasing"] <- "Real estate rental and leasing"
+arts_final[arts_final=="(12) Professional, scientific, and technical services"] <- "Professional, scientific, and technical services"
+arts_final[arts_final=="(13) Management of companies and enterprises"] <- "Management of companies and enterprises"
+arts_final[arts_final=="(14) Administrative and support and waste management and remediation services"] <- "Administrative and support and waste management and remediation services"
+arts_final[arts_final=="(15) Educational services"] <- "Educational services"
+arts_final[arts_final=="(16) Health care and social assistance"] <- "Health care and social assistance"
+arts_final[arts_final=="(17) Arts, entertainment, and recreation"] <- "Arts, entertainment, and recreation"
+arts_final[arts_final=="(18) Accommodation and food services"] <- "Accommodation and food services"
+arts_final[arts_final=="(19) Other services (except public administration)"] <- "Other services (except public administration)"
+arts_final[arts_final=="(20) Public administration"] <- "Public administration"
+
+arts_final <- arts_final %>%
+  mutate(HH_kids = select(., HH01:HH1317) %>%
+           rowSums())
+
+setnames(data_final, "Q8", "Job Title")
+setnames(data_final, "Q9", "Industry")
+```
+
+```{r}
+# write csv
+write.csv(arts_final,"data_final.csv")
+data_final <- read.csv("data_final.csv")
+```
+
