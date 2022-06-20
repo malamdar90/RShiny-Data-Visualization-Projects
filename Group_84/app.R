@@ -117,7 +117,7 @@ ui <- dashboardPage(
               column(
                 4,
                 tags$div(
-                  "This web application was created as a project (Group #1) for a Data Visualization class at Johns Hopkins Carey Business School in Summer 2021.",
+                  "This web application was created as a project for a Data Visualization class at Johns Hopkins Carey Business School in Summer 2021.",
                   style = "font-size:20px"
                 )
               )
