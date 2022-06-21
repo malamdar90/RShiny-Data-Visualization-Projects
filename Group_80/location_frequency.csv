@@ -1,0 +1,222 @@
+Film,type,number,Year,Movie,long,lat
+Afghanistan,Depicted,1,1987,The Living Daylights,64.749202,33.924995
+Albania,Depicted,1,1981,For Your Eyes Only,19.955638,40.973666
+Austria,Depicted,4,1977,The Spy Who Loved Me,14.047316,47.593071
+Austria,Depicted,4,1987,The Living Daylights,14.047316,47.593071
+Austria,Depicted,4,2008,Quantum of Solace,14.047316,47.593071
+Austria,Depicted,4,2015,Spectre,14.047316,47.593071
+Austria,Shooting,3,1987,The Living Daylights,14.047316,47.593071
+Austria,Shooting,3,2008,Quantum of Solace,14.047316,47.593071
+Austria,Shooting,3,2015,Spectre,14.047316,47.593071
+Azerbaijan,Depicted,1,1999,The World Is Not Enough,47.807405,40.330209
+Azerbaijan,Shooting,1,1999,The World Is Not Enough,47.807405,40.330209
+Bahamas,Depicted,3,1965,Thunderball,-78.088882,24.607687
+Bahamas,Depicted,3,1989,License to Kill,-78.08888,24.60769
+Bahamas,Depicted,3,2006,Casino Royale,-78.08888,24.60769
+Bahamas,Shooting,3,1965,Thunderball,-78.08888,24.60769
+Bahamas,Shooting,3,1977,The Spy Who Loved Me,-78.08888,24.60769
+Bahamas,Shooting,3,2006,Casino Royale,-78.08888,24.60769
+Bolivia,Depicted,1,2008,Quantum of Solace,-65.014249,-16.657458
+Brazil,Depicted,1,1979,Moonraker,-56.156927,-7.656192
+Brazil,Shooting,1,1979,Moonraker,-56.156927,-7.656192
+Canada,Shooting,1,1977,The Spy Who Loved Me,-113.22399,59.944146
+Chile,Shooting,1,2008,Quantum of Solace,-70.737155,-26.482808
+China,Shooting,1,2012,Skyfall,103.193664,35.274149
+China Macau,Depicted,1,2012,Skyfall,113.58621,22.172394
+Croatia,Depicted,1,1963,From Russia with Love,14.866607,45.134322
+Cuba,Depicted,2,1995,GoldenEye,-78.873408,21.556991
+Cuba,Depicted,2,2002,Die Another Day,-78.873408,21.556991
+Czech republic,Shooting,1,2006,Casino Royale,14.946144,49.639928
+Czech Republic,Depicted,1,2006,Casino Royale,14.946144,49.639928
+Egypt,Depicted,2,1971,Diamonds Are Forever,29.744129,26.795385
+Egypt,Depicted,2,1977,The Spy Who Loved Me,29.744129,26.795385
+Egypt,Shooting,1,1977,The Spy Who Loved Me,29.744129,26.795385
+France,Depicted,4,1965,Thunderball,2.595634,46.646235
+France,Depicted,4,1971,Diamonds Are Forever,2.595634,46.64624
+France,Depicted,4,1985,A View to a Kill,2.595634,46.64624
+France,Depicted,4,1995,GoldenEye,2.595634,46.64624
+France,Shooting,7,1965,Thunderball,2.595634,46.64624
+France,Shooting,7,1971,Diamonds Are Forever,2.595634,46.64624
+France,Shooting,7,1979,Moonraker,2.595634,46.64624
+France,Shooting,7,1985,A View to a Kill,2.595634,46.64624
+France,Shooting,7,1995,GoldenEye,2.595634,46.64624
+France,Shooting,7,1997,Tomorrow Never Dies,2.595634,46.64624
+France,Shooting,7,1999,The World Is Not Enough,2.595634,46.64624
+Germany,Depicted,2,1983,Octopussy,10.472648,51.14466906
+Germany,Depicted,2,1997,Tomorrow Never Dies,10.47265,51.1446691
+Germany,Shooting,3,1971,Diamonds Are Forever,10.47265,51.1446691
+Germany,Shooting,3,1987,The Living Daylights,10.472648,51.14466906
+Germany,Shooting,3,1997,Tomorrow Never Dies,10.47265,51.1446691
+Gibraltar,Depicted,1,1987,The Living Daylights,-5.352957,36.142259
+Greece,Depicted,1,1981,For Your Eyes Only,22.210297,39.430778
+Guatemala,Shooting,1,1979,Moonraker,-90.270983,15.721902
+Haiti,Depicted,1,2008,Quantum of Solace,-72.647297,19.059764
+Hong Kong,Depicted,1,2002,Die Another Day,114.155124,22.319455
+Hong Kong,Shooting,1,1974,The Man with the Golden Gun,114.1551,22.31946
+Iceland,Depicted,1,2002,Die Another Day,-18.47718,65.020043
+Iceland,Shooting,2,1985,A View to a Kill,-18.47718,65.02004
+Iceland,Shooting,2,2002,Die Another Day,-18.47718,65.020043
+India,Depicted,1,1983,Octopussy,79.609508,23.355368
+India,Shooting,1,1983,Octopussy,79.60951,23.35537
+Italy,Depicted,7,1963,From Russia with Love,12.045717,43.172822
+Italy,Depicted,7,1977,The Spy Who Loved Me,12.04572,43.17282
+Italy,Depicted,7,1979,Moonraker,12.68292,43.09265
+Italy,Depicted,7,1981,For Your Eyes Only,12.68292,43.09265
+Italy,Depicted,7,2006,Casino Royale,12.682924,43.092647
+Italy,Depicted,7,2008,Quantum of Solace,12.682924,43.092647
+Italy,Depicted,7,2015,Spectre,12.68292,43.09265
+Italy,Shooting,8,1963,From Russia with Love,12.045717,43.172822
+Italy,Shooting,8,1977,The Spy Who Loved Me,12.68292,43.09265
+Italy,Shooting,8,1979,Moonraker,12.68292,43.09265
+Italy,Shooting,8,1981,For Your Eyes Only,12.68292,43.09265
+Italy,Shooting,8,1987,The Living Daylights,12.68292,43.09265
+Italy,Shooting,8,2006,Casino Royale,12.68292,43.09265
+Italy,Shooting,8,2008,Quantum of Solace,12.682924,43.092647
+Italy,Shooting,8,2015,Spectre,12.68292,43.09265
+Jamaic,Depicted,1,1962,Dr. No,-77.314745,18.16811
+Jamaica,Depicted,1,1973,Live and Let Die,-77.314745,18.16811
+Jamaica,Shooting,2,1962,Dr. No,-77.314745,18.16811
+Jamaica,Shooting,2,1973,Live and Let Die,101.0794,15.42811
+Japan,Depicted,3,1967,You Only Live Twice,138.298057,36.613583
+Japan,Depicted,3,1971,Diamonds Are Forever,138.298057,36.613583
+Japan,Depicted,3,2012,Skyfall,138.2981,36.61358
+Japan,Shooting,2,1967,You Only Live Twice,138.2981,36.61358
+Japan,Shooting,2,1977,The Spy Who Loved Me,138.2981,36.61358
+Kazakhstan,Depicted,2,1967,You Only Live Twice,69.603911,47.958311
+Kazakhstan,Depicted,2,1999,The World Is Not Enough,69.603911,47.958311
+Lebanon,Depicted,1,1974,The Man with the Golden Gun,35.937678,34.199722
+Madagascar,Depicted,1,2006,Casino Royale,46.326161,-21.105533
+Malta,Shooting,2,1977,The Spy Who Loved Me,14.441165,35.894476
+Malta,Shooting,2,1981,For Your Eyes Only,14.441165,35.894476
+Mexico,Depicted,2,1971,Diamonds Are Forever,-101.935917,24.257488
+Mexico,Depicted,2,2015,Spectre,-102.814824,24.177332
+Mexico,Shooting,3,1989,License to Kill,-102.814824,24.177332
+Mexico,Shooting,3,2008,Quantum of Solace,-102.814824,24.177332
+Mexico,Shooting,3,2015,Spectre,-102.814824,24.177332
+Monaco,Depicted,1,1995,GoldenEye,7.422247,43.738222
+Monaco,Shooting,1,1995,GoldenEye,7.422247,43.738222
+Monenegro,Depicted,1,2006,Casino Royale,19.320467,42.869807
+Morocco,Depicted,2,1987,The Living Daylights,-6.392246,31.852262
+Morocco,Depicted,2,2015,Spectre,-6.392246,31.852262
+Morocco,Shooting,2,1987,The Living Daylights,-6.392246,31.852262
+Morocco,Shooting,2,2015,Spectre,-6.392246,31.852262
+Netherlands,Depicted,1,1971,Diamonds Are Forever,5.761509,52.144461
+Netherlands,Shooting,1,1971,Diamonds Are Forever,5.761509,52.14446
+North Korea,Depicted,1,1999,The World Is Not Enough,127.09245,40.093976
+Norway,Depicted,1,1967,You Only Live Twice,8.19795,62.146773
+Norway,Shooting,1,2002,Die Another Day,8.19795,62.146773
+Pakistan,Depicted,2,1987,The Living Daylights,68.787694,30.111142
+Pakistan,Depicted,2,2006,Casino Royale,68.78769,30.11114
+Panama,Shooting,1,2008,Quantum of Solace,-80.215376,8.542387
+Portugal,Depicted,2,1969,On Her Majesty's Secret Service,-8.709208,39.875458
+Portugal,Depicted,2,1974,The Man with the Golden Gun,-8.709208,39.87546
+Portugal,Shooting,2,1969,On Her Majesty's Secret Service,-8.709208,39.87546
+Portugal,Shooting,2,1974,The Man with the Golden Gun,-8.709208,39.87546
+Puerto Rico,Shooting,1,1995,GoldenEye,-67.105791,18.176722
+Russia,Depicted,9,1967,You Only Live Twice,94.123047,62.204214
+Russia,Depicted,9,1977,The Spy Who Loved Me,94.12305,62.20421
+Russia,Depicted,9,1979,Moonraker,94.12305,62.20421
+Russia,Depicted,9,1981,For Your Eyes Only,94.12305,62.20421
+Russia,Depicted,9,1983,Octopussy,94.12305,62.20421
+Russia,Depicted,9,1985,A View to a Kill,94.12305,62.20421
+Russia,Depicted,9,1995,GoldenEye,94.12305,62.20421
+Russia,Depicted,9,1997,Tomorrow Never Dies,94.12305,62.20421
+Russia,Depicted,9,2008,Quantum of Solace,94.12305,62.20421
+Russia,Shooting,1,1995,GoldenEye,94.12305,62.20421
+Serbia,Depicted,1,1963,From Russia with Love,20.777795,44.086211
+Slovakia,Depicted,1,1987,The Living Daylights,19.412375,48.773839
+South Africa,Depicted,1,1971,Diamonds Are Forever,24.22375,-31.115903
+South Korea,Depicted,2,1999,The World Is Not Enough,127.835849,36.63539
+South Korea,Depicted,2,2002,Die Another Day,127.835849,36.63539
+Spain,Depicted,2,1981,For Your Eyes Only,-3.654748,39.360975
+Spain,Depicted,2,1999,The World Is Not Enough,-3.654748,39.360975
+Spain,Shooting,4,1967,You Only Live Twice,-3.654748,39.360975
+Spain,Shooting,4,1999,The World Is Not Enough,-3.654748,39.360975
+Spain,Shooting,4,2002,Die Another Day,-3.654748,39.360975
+Spain,Shooting,4,2008,Quantum of Solace,-3.654748,39.36098
+Switzerland,Depicted,2,1964,Goldfinger,7.84993,46.826455
+Switzerland,Depicted,2,1969,On Her Majesty's Secret Service,7.84993,46.82646
+Switzerland,Shooting,6,1963,From Russia with Love,7.84993,46.82646
+Switzerland,Shooting,6,1964,Goldfinger,7.84993,46.826455
+Switzerland,Shooting,6,1969,On Her Majesty's Secret Service,7.84993,46.82646
+Switzerland,Shooting,6,1977,The Spy Who Loved Me,7.84993,46.82646
+Switzerland,Shooting,6,1985,A View to a Kill,7.84993,46.82646
+Switzerland,Shooting,6,1995,GoldenEye,7.84993,46.82646
+Thailand,Depicted,1,1974,The Man with the Golden Gun,100.837685,15.258589
+Thailand,Shooting,2,1974,The Man with the Golden Gun,100.837685,15.258589
+Thailand,Shooting,2,1997,Tomorrow Never Dies,100.837685,15.258589
+Turkey,Depicted,3,1963,From Russia with Love,35.500222,39.183715
+Turkey,Depicted,3,1999,The World Is Not Enough,35.23655,38.97904
+Turkey,Depicted,3,2012,Skyfall,35.23655,38.979039
+Turkey,Shooting,3,1963,From Russia with Love,35.23655,38.97904
+Turkey,Shooting,3,1999,The World Is Not Enough,35.23655,38.979039
+Turkey,Shooting,3,2012,Skyfall,35.23655,38.979039
+Uganda,Depicted,1,2006,Casino Royale,32.321756,1.56479
+United Kingdom,Depicted,23,1962,Dr. No,-2.882181,55.056242
+United Kingdom,Depicted,23,1963,From Russia with Love,-2.882181,55.056242
+United Kingdom,Depicted,23,1964,Goldfinger,-2.882181,55.056242
+United Kingdom,Depicted,23,1965,Thunderball,-2.882181,55.056242
+United Kingdom,Depicted,23,1969,On Her Majesty's Secret Service,-2.882181,55.056242
+United Kingdom,Depicted,23,1971,Diamonds Are Forever,-2.882181,55.056242
+United Kingdom,Depicted,23,1973,Live and Let Die,-2.882181,55.056242
+United Kingdom,Depicted,23,1974,The Man with the Golden Gun,-2.882181,55.056242
+United Kingdom,Depicted,23,1977,The Spy Who Loved Me,-2.882181,55.056242
+United Kingdom,Depicted,23,1979,Moonraker,-2.882181,55.056242
+United Kingdom,Depicted,23,1981,For Your Eyes Only,-2.882181,55.056242
+United Kingdom,Depicted,23,1983,Octopussy,-2.882181,55.056242
+United Kingdom,Depicted,23,1985,A View to a Kill,-2.882181,55.056242
+United Kingdom,Depicted,23,1987,The Living Daylights,-2.882181,55.056242
+United Kingdom,Depicted,23,1989,License to Kill,-2.882181,55.056242
+United Kingdom,Depicted,23,1995,GoldenEye,-2.882181,55.056242
+United Kingdom,Depicted,23,1997,Tomorrow Never Dies,-2.882181,55.056242
+United Kingdom,Depicted,23,1999,The World Is Not Enough,-2.882181,55.056242
+United Kingdom,Depicted,23,2002,Die Another Day,-2.882181,55.056242
+United Kingdom,Depicted,23,2006,Casino Royale,-2.882181,55.056242
+United Kingdom,Depicted,23,2008,Quantum of Solace,-2.882181,55.056242
+United Kingdom,Depicted,23,2012,Skyfall,-2.882181,55.056242
+United Kingdom,Depicted,23,2015,Spectre,-2.882181,55.056242
+United Kingdom,Shooting,22,1962,Dr. No,-2.882181,55.056242
+United Kingdom,Shooting,22,1963,From Russia with Love,-2.882181,55.056242
+United Kingdom,Shooting,22,1964,Goldfinger,-2.882181,55.056242
+United Kingdom,Shooting,22,1965,Thunderball,-2.882181,55.056242
+United Kingdom,Shooting,22,1969,On Her Majesty's Secret Service,-2.882181,55.056242
+United Kingdom,Shooting,22,1971,Diamonds Are Forever,-2.882181,55.056242
+United Kingdom,Shooting,22,1973,Live and Let Die,-2.882181,55.056242
+United Kingdom,Shooting,22,1974,The Man with the Golden Gun,-2.882181,55.056242
+United Kingdom,Shooting,22,1977,The Spy Who Loved Me,-2.882181,55.056242
+United Kingdom,Shooting,22,1979,Moonraker,-2.882181,55.056242
+United Kingdom,Shooting,22,1981,For Your Eyes Only,-2.882181,55.056242
+United Kingdom,Shooting,22,1983,Octopussy,-2.882181,55.056242
+United Kingdom,Shooting,22,1985,A View to a Kill,-2.882181,55.056242
+United Kingdom,Shooting,22,1987,The Living Daylights,-2.882181,55.056242
+United Kingdom,Shooting,22,1995,GoldenEye,-2.882181,55.056242
+United Kingdom,Shooting,22,1997,Tomorrow Never Dies,-2.882181,55.056242
+United Kingdom,Shooting,22,1999,The World Is Not Enough,-2.882181,55.056242
+United Kingdom,Shooting,22,2002,Die Another Day,-2.882181,55.056242
+United Kingdom,Shooting,22,2006,Casino Royale,-2.882181,55.056242
+United Kingdom,Shooting,22,2008,Quantum of Solace,-2.882181,55.056242
+United Kingdom,Shooting,22,2012,Skyfall,-2.882181,55.056242
+United Kingdom,Shooting,22,2015,Spectre,-2.882181,55.056242
+United States,Depicted,10,1964,Goldfinger,-101.49931,39.126131
+United States,Depicted,10,1965,Thunderball,-101.49931,39.126131
+United States,Depicted,10,1967,You Only Live Twice,-101.4993,39.12613
+United States,Depicted,10,1971,Diamonds Are Forever,-101.4993,39.12613
+United States,Depicted,10,1973,Live and Let Die,-101.4993,39.12613
+United States,Depicted,10,1979,Moonraker,-101.4993,39.12613
+United States,Depicted,10,1985,A View to a Kill,-101.4993,39.12613
+United States,Depicted,10,1989,License to Kill,-101.4993,39.12613
+United States,Depicted,10,1995,GoldenEye,-101.4993,39.12613
+United States,Depicted,10,2006,Casino Royale,-101.4993,39.12613
+United States,Shooting,9,1964,Goldfinger,-101.49931,39.126131
+United States,Shooting,9,1965,Thunderball,-101.4993,39.12613
+United States,Shooting,9,1971,Diamonds Are Forever,-101.4993,39.12613
+United States,Shooting,9,1973,Live and Let Die,-101.4993,39.12613
+United States,Shooting,9,1979,Moonraker,-101.4993,39.12613
+United States,Shooting,9,1985,A View to a Kill,-101.4993,39.12613
+United States,Shooting,9,1989,License to Kill,-101.4993,39.12613
+United States,Shooting,9,2002,Die Another Day,-101.4993,39.12613
+United States,Shooting,9,2006,Casino Royale,-101.4993,39.12613
+Vatican City,Depicted,1,2015,Spectre,12.453274,41.901942
+Vatican City,Shooting,1,2015,Spectre,12.453274,41.901942
+Vietnam,Depicted,1,1997,Tomorrow Never Dies,107.989169,14.545688
+West Berlin,Shooting,1,1983,Octopussy,13.196409,52.534569
