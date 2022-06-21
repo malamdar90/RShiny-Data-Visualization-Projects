@@ -1,0 +1,72 @@
+year,nationality,name,points
+2020,Great Britain,Lewis Hamilton,347
+2019,Great Britain,Lewis Hamilton,413
+2018,Great Britain,Lewis Hamilton,408
+2017,Great Britain,Lewis Hamilton,363
+2016,Germany,Nico Rosberg,385
+2015,Great Britain,Lewis Hamilton,381
+2014,Great Britain,Lewis Hamilton,384
+2013,Germany,Sebastian Vettel,397
+2012,Germany,Sebastian Vettel,281
+2011,Germany,Sebastian Vettel,392
+2010,Germany,Sebastian Vettel,256
+2009,Great Britain,Jenson Button,95
+2008,Great Britain,Lewis Hamilton,98
+2007,Finland,Kimi Räikkönen,110
+2006,Spain,Fernando Alonso,134
+2005,Spain,Fernando Alonso,133
+2004,Germany,Michael Schumacher,148
+2003,Germany,Michael Schumacher,93
+2002,Germany,Michael Schumacher,144
+2001,Germany,Michael Schumacher,123
+2000,Germany,Michael Schumacher,108
+1999,Finland,Mika Häkkinen,76
+1998,Finland,Mika Häkkinen,100
+1997,Canada,Jacques Villeneuve,81
+1996,Great Britain,Damon Hill,97
+1995,Germany,Michael Schumacher,102
+1994,Germany,Michael Schumacher,92
+1993,France,Alain Prost,99
+1992,Great Britain,Nigel Mansell,108
+1991,Brazil,Ayrton Senna,96
+1990,Brazil,Ayrton Senna,78
+1989,France,Alain Prost,76
+1988,Brazil,Ayrton Senna,90
+1987,Brazil,Nélson Piquet,73
+1986,France,Alain Prost,72
+1985,France,Alain Prost,73
+1984,Austria,Niki Lauda,72
+1983,Brazil,Nélson Piquet,59
+1982,Finland,Keke Rosberg,44
+1981,Brazil,Nélson Piquet,50
+1980,Australia,Alan Jones,67
+1979,South Africa,Jody Scheckter,51
+1978,USA,Mario Andretti,64
+1977,Austria,Niki Lauda,72
+1976,Great Britain,James Hunt,69
+1975,Austria,Niki Lauda,64.5
+1974,Brazil,Emerson Fittipaldi,55
+1973,Great Britain,Jackie Stewart,71
+1972,Brazil,Emerson Fittipaldi,61
+1971,Great Britain,Jackie Stewart,62
+1970,Austria,Jochen Rindt,45
+1969,Great Britain,Jackie Stewart,63
+1968,Great Britain,Graham Hill,48
+1967,New Zealand,Denny Hulme,51
+1966,Australia,Jack Brabham,42
+1965,Great Britain,Jim Clark,54
+1964,Great Britain,John Surtees,40
+1963,Great Britain,Jim Clark,54
+1962,Great Britain,Graham Hill,42
+1961,USA,Phil Hill,34
+1960,Australia,Jack Brabham,43
+1959,Australia,Jack Brabham,31
+1958,Great Britain,Mike Hawthorn,42
+1957,Argentina,Juan Manuel Fangio,40
+1956,Argentina,Juan Manuel Fangio,30
+1955,Argentina,Juan Manuel Fangio,40
+1954,Argentina,Juan Manuel Fangio,42
+1953,Italy,Alberto Ascari,34.5
+1952,Italy,Alberto Ascari,36
+1951,Argentina,Juan Manuel Fangio,31
+1950,Italy,Nino Farina,30
