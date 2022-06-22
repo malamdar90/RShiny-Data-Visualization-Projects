@@ -1,0 +1,59 @@
+.main-header .logo{
+	font-family: "Georgia", Times, "Times New Roman", serif;
+}
+
+h1 {
+	font-family: "Georgia", Times, "Times New Roman", serif;
+	padding: 5px;
+	font-weight: bold;
+	text-align: left;
+}
+
+h3 {
+	font-weight: bold;
+	font-family: "Georgia", Times, "Times New Roman", serif;
+	margin: 5px;
+	text-align: left;
+}
+
+h2 {
+	font-family: "Georgia", Times, "Times New Roman", serif;
+	padding: 5px;
+	font-weight: bold;
+	text-align: left;
+}
+
+h4 {
+  font-family: "Georgia", Times, "Times New Roman", serif;
+	padding: 5px;
+	text-align: left;
+	font-weight: bold;
+}
+
+h5 {
+  font-family: "Georgia", Times, "Times New Roman", serif;
+	padding: 5px;
+	text-align: left;
+	font-size: 14px;
+}
+
+#intro {
+	padding: 20px;
+	text-align: center;
+}
+
+#dataset {
+	padding: 30px;
+	text-align: center;
+}
+
+#us{
+  padding: 20px;
+	text-align: center;
+}
+
+#datein {
+	height: 34px;
+}
+
+
