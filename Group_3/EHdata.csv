@@ -1,0 +1,421 @@
+STAGE.NUMBER,PROVIDER.STATE,N
+Stage 1,Arkansas,1
+Stage 1,California,11
+Stage 1,Florida,1
+Stage 1,Georgia,1
+Stage 1,Illinois,1
+Stage 1,Indiana,2
+Stage 1,Kansas,1
+Stage 1,Kentucky,1
+Stage 1,Maryland,3
+Stage 1,Massachusetts,1
+Stage 1,Mississippi,6
+Stage 1,Nevada,1
+Stage 1,New Jersey,1
+Stage 1,New Mexico,1
+Stage 1,North Carolina,5
+Stage 1,Oklahoma,2
+Stage 1,Pennsylvania,2
+Stage 1,Tennessee,4
+Stage 1,Texas,11
+Stage 1,Wisconsin,1
+Stage 2,Alabama,23
+Stage 2,Alaska,2
+Stage 2,Arizona,22
+Stage 2,Arkansas,14
+Stage 2,California,89
+Stage 2,Colorado,11
+Stage 2,Connecticut,5
+Stage 2,Delaware,4
+Stage 2,District Of Columbia,4
+Stage 2,Florida,40
+Stage 2,Georgia,35
+Stage 2,Hawaii,1
+Stage 2,Idaho,3
+Stage 2,Illinois,43
+Stage 2,Indiana,18
+Stage 2,Iowa,11
+Stage 2,Kansas,13
+Stage 2,Kentucky,12
+Stage 2,Louisiana,23
+Stage 2,Maine,6
+Stage 2,Maryland,15
+Stage 2,Massachusetts,13
+Stage 2,Michigan,33
+Stage 2,Minnesota,9
+Stage 2,Mississippi,13
+Stage 2,Missouri,21
+Stage 2,Montana,2
+Stage 2,Nebraska,8
+Stage 2,Nevada,3
+Stage 2,New Hampshire,2
+Stage 2,New Jersey,20
+Stage 2,New Mexico,6
+Stage 2,New York,45
+Stage 2,North Carolina,40
+Stage 2,North Dakota,4
+Stage 2,Ohio,42
+Stage 2,Oklahoma,37
+Stage 2,Oregon,10
+Stage 2,Pennsylvania,45
+Stage 2,Puerto Rico,5
+Stage 2,Rhode Island,1
+Stage 2,South Carolina,17
+Stage 2,South Dakota,4
+Stage 2,Tennessee,36
+Stage 2,Texas,101
+Stage 2,Utah,12
+Stage 2,Vermont,2
+Stage 2,Virginia,20
+Stage 2,Washington,21
+Stage 2,West Virginia,12
+Stage 2,Wisconsin,18
+Stage 2,Wyoming,5
+Stage 1,Alaska,2
+Stage 1,Arizona,4
+Stage 1,Arkansas,1
+Stage 1,California,25
+Stage 1,Colorado,2
+Stage 1,Delaware,1
+Stage 1,District Of Columbia,1
+Stage 1,Florida,6
+Stage 1,Georgia,10
+Stage 1,Idaho,2
+Stage 1,Illinois,8
+Stage 1,Indiana,2
+Stage 1,Iowa,2
+Stage 1,Kansas,11
+Stage 1,Kentucky,8
+Stage 1,Louisiana,5
+Stage 1,Maine,1
+Stage 1,Maryland,4
+Stage 1,Massachusetts,5
+Stage 1,Michigan,11
+Stage 1,Minnesota,9
+Stage 1,Mississippi,12
+Stage 1,Missouri,4
+Stage 1,Montana,5
+Stage 1,Nebraska,8
+Stage 1,Nevada,4
+Stage 1,New Jersey,5
+Stage 1,New Mexico,4
+Stage 1,New York,13
+Stage 1,North Carolina,13
+Stage 1,North Dakota,10
+Stage 1,Ohio,7
+Stage 1,Oklahoma,8
+Stage 1,Oregon,1
+Stage 1,Pennsylvania,9
+Stage 1,South Carolina,6
+Stage 1,South Dakota,5
+Stage 1,Tennessee,9
+Stage 1,Texas,31
+Stage 1,Utah,2
+Stage 1,Washington,8
+Stage 1,West Virginia,4
+Stage 1,Wisconsin,6
+Stage 1,Wyoming,1
+Stage 2,Alabama,54
+Stage 2,Alaska,3
+Stage 2,Arizona,47
+Stage 2,Arkansas,25
+Stage 2,California,175
+Stage 2,Colorado,32
+Stage 2,Connecticut,23
+Stage 2,Delaware,6
+Stage 2,District Of Columbia,7
+Stage 2,Florida,104
+Stage 2,Georgia,64
+Stage 2,Hawaii,4
+Stage 2,Idaho,14
+Stage 2,Illinois,81
+Stage 2,Indiana,65
+Stage 2,Iowa,38
+Stage 2,Kansas,47
+Stage 2,Kentucky,37
+Stage 2,Louisiana,53
+Stage 2,Maine,15
+Stage 2,Maryland,38
+Stage 2,Massachusetts,38
+Stage 2,Michigan,58
+Stage 2,Minnesota,33
+Stage 2,Mississippi,38
+Stage 2,Missouri,54
+Stage 2,Montana,17
+Stage 2,Nebraska,24
+Stage 2,Nevada,12
+Stage 2,New Hampshire,9
+Stage 2,New Jersey,50
+Stage 2,New Mexico,18
+Stage 2,New York,114
+Stage 2,North Carolina,67
+Stage 2,North Dakota,8
+Stage 2,Ohio,90
+Stage 2,Oklahoma,74
+Stage 2,Oregon,19
+Stage 2,Pennsylvania,114
+Stage 2,Rhode Island,4
+Stage 2,South Carolina,36
+Stage 2,South Dakota,15
+Stage 2,Tennessee,68
+Stage 2,Texas,190
+Stage 2,Utah,13
+Stage 2,Vermont,7
+Stage 2,Virginia,41
+Stage 2,Washington,36
+Stage 2,West Virginia,23
+Stage 2,Wisconsin,60
+Stage 2,Wyoming,9
+Stage 1,Alabama,46
+Stage 1,Alaska,11
+Stage 1,Arizona,43
+Stage 1,Arkansas,32
+Stage 1,California,162
+Stage 1,Colorado,26
+Stage 1,Connecticut,8
+Stage 1,Delaware,7
+Stage 1,District Of Columbia,5
+Stage 1,Florida,87
+Stage 1,Georgia,60
+Stage 1,Hawaii,1
+Stage 1,Idaho,19
+Stage 1,Illinois,69
+Stage 1,Indiana,41
+Stage 1,Iowa,36
+Stage 1,Kansas,52
+Stage 1,Kentucky,34
+Stage 1,Louisiana,60
+Stage 1,Maine,9
+Stage 1,Maryland,24
+Stage 1,Massachusetts,35
+Stage 1,Michigan,63
+Stage 1,Minnesota,33
+Stage 1,Mississippi,43
+Stage 1,Missouri,58
+Stage 1,Montana,19
+Stage 1,Nebraska,34
+Stage 1,Nevada,14
+Stage 1,New Hampshire,4
+Stage 1,New Jersey,40
+Stage 1,New Mexico,22
+Stage 1,New York,109
+Stage 1,North Carolina,54
+Stage 1,North Dakota,16
+Stage 1,Ohio,90
+Stage 1,Oklahoma,81
+Stage 1,Oregon,35
+Stage 1,Pennsylvania,74
+Stage 1,Rhode Island,3
+Stage 1,South Carolina,36
+Stage 1,South Dakota,14
+Stage 1,Tennessee,55
+Stage 1,Texas,203
+Stage 1,Utah,34
+Stage 1,Vermont,4
+Stage 1,Virginia,36
+Stage 1,Washington,38
+Stage 1,West Virginia,25
+Stage 1,Wisconsin,49
+Stage 1,Wyoming,14
+Stage 2,Alabama,24
+Stage 2,Alaska,2
+Stage 2,Arizona,26
+Stage 2,Arkansas,18
+Stage 2,California,103
+Stage 2,Colorado,24
+Stage 2,Connecticut,18
+Stage 2,Delaware,1
+Stage 2,Florida,82
+Stage 2,Georgia,41
+Stage 2,Hawaii,8
+Stage 2,Idaho,8
+Stage 2,Illinois,71
+Stage 2,Indiana,54
+Stage 2,Iowa,38
+Stage 2,Kansas,33
+Stage 2,Kentucky,28
+Stage 2,Louisiana,31
+Stage 2,Maine,10
+Stage 2,Maryland,15
+Stage 2,Massachusetts,29
+Stage 2,Michigan,44
+Stage 2,Minnesota,42
+Stage 2,Mississippi,24
+Stage 2,Missouri,44
+Stage 2,Montana,13
+Stage 2,Nebraska,28
+Stage 2,Nevada,8
+Stage 2,New Hampshire,14
+Stage 2,New Jersey,26
+Stage 2,New Mexico,8
+Stage 2,New York,54
+Stage 2,North Carolina,24
+Stage 2,North Dakota,12
+Stage 2,Ohio,67
+Stage 2,Oklahoma,18
+Stage 2,Oregon,14
+Stage 2,Pennsylvania,66
+Stage 2,Rhode Island,4
+Stage 2,South Carolina,18
+Stage 2,South Dakota,19
+Stage 2,Tennessee,35
+Stage 2,Texas,110
+Stage 2,Utah,5
+Stage 2,Vermont,6
+Stage 2,Virginia,43
+Stage 2,Washington,30
+Stage 2,West Virginia,8
+Stage 2,Wisconsin,39
+Stage 2,Wyoming,2
+Stage 1,Alabama,75
+Stage 1,Alaska,11
+Stage 1,Arizona,59
+Stage 1,Arkansas,57
+Stage 1,California,287
+Stage 1,Colorado,52
+Stage 1,Connecticut,27
+Stage 1,Delaware,4
+Stage 1,District Of Columbia,6
+Stage 1,Florida,166
+Stage 1,Georgia,107
+Stage 1,Hawaii,9
+Stage 1,Idaho,20
+Stage 1,Illinois,148
+Stage 1,Indiana,99
+Stage 1,Iowa,80
+Stage 1,Kansas,77
+Stage 1,Kentucky,54
+Stage 1,Louisiana,90
+Stage 1,Maine,24
+Stage 1,Maryland,36
+Stage 1,Massachusetts,56
+Stage 1,Michigan,109
+Stage 1,Minnesota,77
+Stage 1,Mississippi,62
+Stage 1,Missouri,94
+Stage 1,Montana,39
+Stage 1,Nebraska,62
+Stage 1,Nevada,20
+Stage 1,New Hampshire,19
+Stage 1,New Jersey,59
+Stage 1,New Mexico,29
+Stage 1,New York,144
+Stage 1,North Carolina,83
+Stage 1,North Dakota,12
+Stage 1,Ohio,134
+Stage 1,Oklahoma,92
+Stage 1,Oregon,44
+Stage 1,Pennsylvania,148
+Stage 1,Rhode Island,12
+Stage 1,South Carolina,49
+Stage 1,South Dakota,32
+Stage 1,Tennessee,92
+Stage 1,Texas,295
+Stage 1,Utah,42
+Stage 1,Vermont,11
+Stage 1,Virginia,75
+Stage 1,Washington,67
+Stage 1,West Virginia,34
+Stage 1,Wisconsin,82
+Stage 1,Wyoming,15
+Stage 1,Alabama,53
+Stage 1,Alaska,5
+Stage 1,Arizona,40
+Stage 1,Arkansas,40
+Stage 1,California,187
+Stage 1,Colorado,41
+Stage 1,Connecticut,22
+Stage 1,Delaware,1
+Stage 1,District Of Columbia,1
+Stage 1,Florida,127
+Stage 1,Georgia,81
+Stage 1,Hawaii,9
+Stage 1,Idaho,15
+Stage 1,Illinois,97
+Stage 1,Indiana,79
+Stage 1,Iowa,71
+Stage 1,Kansas,58
+Stage 1,Kentucky,43
+Stage 1,Louisiana,59
+Stage 1,Maine,17
+Stage 1,Maryland,22
+Stage 1,Massachusetts,42
+Stage 1,Michigan,66
+Stage 1,Minnesota,86
+Stage 1,Mississippi,47
+Stage 1,Missouri,70
+Stage 1,Montana,23
+Stage 1,Nebraska,35
+Stage 1,Nevada,13
+Stage 1,New Hampshire,18
+Stage 1,New Jersey,41
+Stage 1,New Mexico,21
+Stage 1,New York,95
+Stage 1,North Carolina,44
+Stage 1,North Dakota,14
+Stage 1,Ohio,87
+Stage 1,Oklahoma,46
+Stage 1,Oregon,20
+Stage 1,Pennsylvania,95
+Stage 1,Rhode Island,12
+Stage 1,South Carolina,32
+Stage 1,South Dakota,31
+Stage 1,Tennessee,49
+Stage 1,Texas,191
+Stage 1,Utah,11
+Stage 1,Vermont,7
+Stage 1,Virginia,53
+Stage 1,Washington,43
+Stage 1,West Virginia,18
+Stage 1,Wisconsin,73
+Stage 1,Wyoming,8
+Stage 1,Alabama,19
+Stage 1,Alaska,1
+Stage 1,Arizona,1
+Stage 1,Arkansas,17
+Stage 1,California,68
+Stage 1,Colorado,12
+Stage 1,Connecticut,4
+Stage 1,Delaware,1
+Stage 1,Florida,54
+Stage 1,Georgia,28
+Stage 1,Hawaii,7
+Stage 1,Idaho,7
+Stage 1,Illinois,40
+Stage 1,Indiana,13
+Stage 1,Iowa,30
+Stage 1,Kansas,23
+Stage 1,Kentucky,11
+Stage 1,Louisiana,20
+Stage 1,Maine,7
+Stage 1,Maryland,3
+Stage 1,Massachusetts,16
+Stage 1,Michigan,30
+Stage 1,Minnesota,26
+Stage 1,Mississippi,14
+Stage 1,Missouri,22
+Stage 1,Montana,4
+Stage 1,Nebraska,12
+Stage 1,Nevada,3
+Stage 1,New Hampshire,6
+Stage 1,New Jersey,11
+Stage 1,New Mexico,3
+Stage 1,New York,18
+Stage 1,North Carolina,8
+Stage 1,North Dakota,1
+Stage 1,Ohio,18
+Stage 1,Oklahoma,10
+Stage 1,Oregon,10
+Stage 1,Pennsylvania,23
+Stage 1,Rhode Island,5
+Stage 1,South Carolina,8
+Stage 1,South Dakota,1
+Stage 1,Tennessee,15
+Stage 1,Texas,88
+Stage 1,Utah,6
+Stage 1,Vermont,1
+Stage 1,Virginia,32
+Stage 1,Washington,18
+Stage 1,West Virginia,2
+Stage 1,Wisconsin,13
+Stage 1,Wyoming,1
