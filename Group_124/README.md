@@ -1,3 +1,5 @@
-### [GitHub Repository](https://github.com/tlandrewdc/TlaJHUDataViz)
+# Source Code:
 
-### [Shiny App](https://tlajhu.shinyapps.io/DataVizTeam101FinalProject/)
+Please check out the GitHub Repository [here!](https://github.com/Shuya-Yang/Summer22_Data_Viz)
+
+Please check out the Shiny App [here!](https://shuyayang.shinyapps.io/UI_11/)
