@@ -4,7 +4,7 @@
 
 **School:** Johns Hopkins Carey Business School
 
-**Instructor:** Dr. Mohammad Ali Alamdar Yazdi (yazdi@jhu.edu)
+**Instructor:** [Dr. Mohammad Ali Alamdar Yazdi](https://carey.jhu.edu/faculty/faculty-directory/mohammad-ali-alamdar-yazdi-phd) (yazdi@jhu.edu)
 
 **Semesters:** Summer-19, Summer-20, Summer-21, and Summer-22
 
